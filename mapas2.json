@@ -1,0 +1,611 @@
+[
+    {
+        "titulo": "agua",
+        "pregunta": "\u00bfqu\u00e9 es el agua, cu\u00e1l es su composici\u00f3n, sus estados y su importancia?",
+        "conceptos": [
+            "agua",
+            "sustancia",
+            "mol\u00e9cula",
+            "\u00e1tomos de hidr\u00f3geno",
+            "\u00e1tomo de ox\u00edgeno",
+            "h2o",
+            "enlace covalente",
+            "estado l\u00edquido",
+            "forma s\u00f3lida",
+            "hielo",
+            "forma gaseosa",
+            "vapor",
+            "tierra",
+            "sistema solar",
+            "origen de la vida",
+            "sustento de la vida"
+        ],
+        "relaciones": [
+            "es una",
+            "est\u00e1 compuesta por",
+            "es llamada",
+            "une",
+            "se refiere a la sustancia en su",
+            "puede hallarse en su",
+            "es com\u00fan en",
+            "se encuentra en forma de",
+            "es indispensable para el",
+            "tiene una"
+        ],
+        "ternas": [
+            {
+                "f": "agua",
+                "r": "es una",
+                "o": "sustancia"
+            },
+            {
+                "f": "mol\u00e9cula",
+                "r": "est\u00e1 compuesta por",
+                "o": "\u00e1tomos de hidr\u00f3geno"
+            },
+            {
+                "f": "mol\u00e9cula",
+                "r": "est\u00e1 compuesta por",
+                "o": "\u00e1tomo de ox\u00edgeno"
+            },
+            {
+                "f": "agua",
+                "r": "es llamada",
+                "o": "h2o"
+            },
+            {
+                "f": "enlace covalente",
+                "r": "une",
+                "o": "\u00e1tomos de hidr\u00f3geno"
+            },
+            {
+                "f": "enlace covalente",
+                "r": "une",
+                "o": "\u00e1tomo de ox\u00edgeno"
+            },
+            {
+                "f": "agua",
+                "r": "se refiere a la sustancia en su",
+                "o": "estado l\u00edquido"
+            },
+            {
+                "f": "agua",
+                "r": "puede hallarse en su",
+                "o": "forma s\u00f3lida"
+            },
+            {
+                "f": "forma s\u00f3lida",
+                "r": "es llamada",
+                "o": "hielo"
+            },
+            {
+                "f": "agua",
+                "r": "puede hallarse en su",
+                "o": "forma gaseosa"
+            },
+            {
+                "f": "forma gaseosa",
+                "r": "es llamada",
+                "o": "vapor"
+            },
+            {
+                "f": "agua",
+                "r": "es com\u00fan en",
+                "o": "tierra"
+            },
+            {
+                "f": "agua",
+                "r": "es com\u00fan en",
+                "o": "sistema solar"
+            },
+            {
+                "f": "agua",
+                "r": "se encuentra en forma de",
+                "o": "vapor"
+            },
+            {
+                "f": "agua",
+                "r": "se encuentra en forma de",
+                "o": "hielo"
+            },
+            {
+                "f": "agua",
+                "r": "es indispensable para el",
+                "o": "origen de la vida"
+            },
+            {
+                "f": "agua",
+                "r": "es indispensable para el",
+                "o": "sustento de la vida"
+            },
+            {
+                "f": "agua",
+                "r": "tiene una",
+                "o": "mol\u00e9cula"
+            }
+        ]
+    },
+    {
+        "titulo": "don_quijote",
+        "pregunta": "\u00bfqu\u00e9 es don quijote de la mancha y cu\u00e1les son sus principales caracter\u00edsticas?",
+        "conceptos": [
+            "don quijote de la mancha",
+            "novela",
+            "miguel de cervantes saavedra",
+            "literatura espa\u00f1ola",
+            "literatura universal",
+            "el ingenioso hidalgo don quijote de la mancha",
+            "segunda parte del ingenioso caballero don quijote de la mancha",
+            "primera parte",
+            "segunda parte",
+            "partici\u00f3n en cuatro secciones"
+        ],
+        "relaciones": [
+            "es una",
+            "escrita por",
+            "publicada con el t\u00edtulo de",
+            "es una de las principales de",
+            "se public\u00f3 dividido en",
+            "qued\u00f3 revocada la",
+            "es la obra m\u00e1s destacada de la",
+            "tiene como continuaci\u00f3n"
+        ],
+        "ternas": [
+            {
+                "f": "don quijote de la mancha",
+                "r": "es una",
+                "o": "novela"
+            },
+            {
+                "f": "don quijote de la mancha",
+                "r": "escrita por",
+                "o": "miguel de cervantes saavedra"
+            },
+            {
+                "f": "primera parte",
+                "r": "publicada con el t\u00edtulo de",
+                "o": "el ingenioso hidalgo don quijote de la mancha"
+            },
+            {
+                "f": "don quijote de la mancha",
+                "r": "es la obra m\u00e1s destacada de la",
+                "o": "literatura espa\u00f1ola"
+            },
+            {
+                "f": "don quijote de la mancha",
+                "r": "es una de las principales de",
+                "o": "literatura universal"
+            },
+            {
+                "f": "don quijote de la mancha",
+                "r": "tiene como continuaci\u00f3n",
+                "o": "segunda parte"
+            },
+            {
+                "f": "primera parte",
+                "r": "se public\u00f3 dividido en",
+                "o": "partici\u00f3n en cuatro secciones"
+            },
+            {
+                "f": "segunda parte",
+                "r": "qued\u00f3 revocada la",
+                "o": "partici\u00f3n en cuatro secciones"
+            },
+            {
+                "f": "segunda parte",
+                "r": "publicada con el t\u00edtulo de",
+                "o": "segunda parte del ingenioso caballero don quijote de la mancha"
+            }
+        ]
+    },
+    {
+        "titulo": "proteina_a",
+        "pregunta": "\u00bfqu\u00e9 es la prote\u00edna a y cu\u00e1les son sus principales caracter\u00edsticas?",
+        "conceptos": [
+            "prote\u00edna a",
+            "prote\u00edna de superficie",
+            "pared celular",
+            "bacteria staphylococcus aureus",
+            "gen spa",
+            "regulaci\u00f3n de la prote\u00edna a",
+            "topolog\u00eda del adn",
+            "osmolaridad celular",
+            "sistema de dos componentes arls-arlr",
+            "investigaci\u00f3n bioqu\u00edmica",
+            "inmunoglobulinas",
+            "cinco dominios hom\u00f3logos de uni\u00f3n a ig",
+            "haz de tres h\u00e9lices",
+            "prote\u00ednas de mam\u00edferos",
+            "igg",
+            "cadena pesada",
+            "regi\u00f3n fc",
+            "regi\u00f3n fab",
+            "familia vh3 humana"
+        ],
+        "relaciones": [
+            "es una",
+            "se encontr\u00f3 en la",
+            "de la",
+            "est\u00e1 codificada por el",
+            "es controlada por la",
+            "es controlada por un",
+            "ha encontrado uso en la",
+            "tiene capacidad para unirse a",
+            "est\u00e1 compuesta por",
+            "se pliegan formando un",
+            "es capaz de unirse a",
+            "se une a la",
+            "dentro de la"
+        ],
+        "ternas": [
+            {
+                "f": "prote\u00edna a",
+                "r": "es una",
+                "o": "prote\u00edna de superficie"
+            },
+            {
+                "f": "prote\u00edna a",
+                "r": "se encontr\u00f3 en la",
+                "o": "pared celular"
+            },
+            {
+                "f": "pared celular",
+                "r": "de la",
+                "o": "bacteria staphylococcus aureus"
+            },
+            {
+                "f": "prote\u00edna a",
+                "r": "est\u00e1 codificada por el",
+                "o": "gen spa"
+            },
+            {
+                "f": "regulaci\u00f3n de la prote\u00edna a",
+                "r": "es controlada por la",
+                "o": "topolog\u00eda del adn"
+            },
+            {
+                "f": "regulaci\u00f3n de la prote\u00edna a",
+                "r": "es controlada por la",
+                "o": "osmolaridad celular"
+            },
+            {
+                "f": "regulaci\u00f3n de la prote\u00edna a",
+                "r": "es controlada por un",
+                "o": "sistema de dos componentes arls-arlr"
+            },
+            {
+                "f": "prote\u00edna a",
+                "r": "ha encontrado uso en la",
+                "o": "investigaci\u00f3n bioqu\u00edmica"
+            },
+            {
+                "f": "prote\u00edna a",
+                "r": "tiene capacidad para unirse a",
+                "o": "inmunoglobulinas"
+            },
+            {
+                "f": "prote\u00edna a",
+                "r": "est\u00e1 compuesta por",
+                "o": "cinco dominios hom\u00f3logos de uni\u00f3n a ig"
+            },
+            {
+                "f": "cinco dominios hom\u00f3logos de uni\u00f3n a ig",
+                "r": "se pliegan formando un",
+                "o": "haz de tres h\u00e9lices"
+            },
+            {
+                "f": "cinco dominios hom\u00f3logos de uni\u00f3n a ig",
+                "r": "es capaz de unirse a",
+                "o": "prote\u00ednas de mam\u00edferos"
+            },
+            {
+                "f": "cinco dominios hom\u00f3logos de uni\u00f3n a ig",
+                "r": "es capaz de unirse a",
+                "o": "igg"
+            },
+            {
+                "f": "prote\u00edna a",
+                "r": "se une a la",
+                "o": "cadena pesada"
+            },
+            {
+                "f": "cadena pesada",
+                "r": "dentro de la",
+                "o": "regi\u00f3n fc"
+            },
+            {
+                "f": "regi\u00f3n fc",
+                "r": "de la",
+                "o": "inmunoglobulinas"
+            },
+            {
+                "f": "prote\u00edna a",
+                "r": "se une a la",
+                "o": "regi\u00f3n fab"
+            },
+            {
+                "f": "inmunoglobulinas",
+                "r": "de la",
+                "o": "familia vh3 humana"
+            }
+        ]
+    },
+    {
+        "titulo": "anticuerpo",
+        "pregunta": "\u00bfqu\u00e9 son los anticuerpos y cu\u00e1l es su funci\u00f3n?",
+        "conceptos": [
+            "anticuerpos",
+            "glucoprote\u00ednas",
+            "gamma globulina",
+            "sangre",
+            "fluidos corporales",
+            "vertebrados",
+            "receptor de membrana",
+            "linfocitos b",
+            "sistema inmunitario",
+            "identificar elementos extra\u00f1os",
+            "neutralizar elementos extra\u00f1os",
+            "elementos extra\u00f1os",
+            "bacterias",
+            "virus"
+        ],
+        "relaciones": [
+            "son",
+            "del tipo",
+            "pueden encontrarse de forma soluble en",
+            "de los",
+            "disponiendo de una forma id\u00e9ntica que act\u00faa como",
+            "en los",
+            "son empleados por el",
+            "para",
+            "tales como"
+        ],
+        "ternas": [
+            {
+                "f": "anticuerpos",
+                "r": "son",
+                "o": "glucoprote\u00ednas"
+            },
+            {
+                "f": "glucoprote\u00ednas",
+                "r": "del tipo",
+                "o": "gamma globulina"
+            },
+            {
+                "f": "anticuerpos",
+                "r": "pueden encontrarse de forma soluble en",
+                "o": "sangre"
+            },
+            {
+                "f": "anticuerpos",
+                "r": "pueden encontrarse de forma soluble en",
+                "o": "fluidos corporales"
+            },
+            {
+                "f": "sangre",
+                "r": "de los",
+                "o": "vertebrados"
+            },
+            {
+                "f": "fluidos corporales",
+                "r": "de los",
+                "o": "vertebrados"
+            },
+            {
+                "f": "anticuerpos",
+                "r": "disponiendo de una forma id\u00e9ntica que act\u00faa como",
+                "o": "receptor de membrana"
+            },
+            {
+                "f": "receptor de membrana",
+                "r": "en los",
+                "o": "linfocitos b"
+            },
+            {
+                "f": "anticuerpos",
+                "r": "son empleados por el",
+                "o": "sistema inmunitario"
+            },
+            {
+                "f": "sistema inmunitario",
+                "r": "para",
+                "o": "identificar elementos extra\u00f1os"
+            },
+            {
+                "f": "sistema inmunitario",
+                "r": "para",
+                "o": "neutralizar elementos extra\u00f1os"
+            },
+            {
+                "f": "elementos extra\u00f1os",
+                "r": "tales como",
+                "o": "bacterias"
+            },
+            {
+                "f": "elementos extra\u00f1os",
+                "r": "tales como",
+                "o": "virus"
+            }
+        ]
+    },
+    {
+        "titulo": "ojo",
+        "pregunta": "\u00bfqu\u00e9 es el ojo, cu\u00e1l es su funci\u00f3n y c\u00f3mo funciona?",
+        "conceptos": [
+            "ojo",
+            "\u00f3rgano",
+            "luz",
+            "sentido de la vista",
+            "funci\u00f3n del ojo",
+            "transformaci\u00f3n de energ\u00eda lum\u00ednica en se\u00f1ales el\u00e9ctricas",
+            "energ\u00eda lum\u00ednica",
+            "se\u00f1ales el\u00e9ctricas",
+            "cerebro",
+            "nervio \u00f3ptico",
+            "vertebrados",
+            "moluscos",
+            "lente",
+            "cristalino",
+            "distancia",
+            "diafragma",
+            "pupila",
+            "di\u00e1metro",
+            "iris",
+            "tejido sensible a la luz",
+            "retina",
+            "impulsos nerviosos",
+            "c\u00e9lulas fotorreceptoras"
+        ],
+        "relaciones": [
+            "es un",
+            "detecta la",
+            "es la base del",
+            "consiste en",
+            "transforma",
+            "son enviadas al",
+            "a trav\u00e9s del",
+            "funciona similar al de",
+            "posee una",
+            "llamada",
+            "es ajustable seg\u00fan la",
+            "se llama",
+            "posee",
+            "regula",
+            "es la",
+            "penetra a trav\u00e9s de la",
+            "atraviesa el",
+            "se proyecta sobre la",
+            "se transforma en",
+            "gracias a",
+            "se trasladan a trav\u00e9s del",
+            "se trasladan al"
+        ],
+        "ternas": [
+            {
+                "f": "ojo",
+                "r": "es un",
+                "o": "\u00f3rgano"
+            },
+            {
+                "f": "ojo",
+                "r": "detecta la",
+                "o": "luz"
+            },
+            {
+                "f": "ojo",
+                "r": "es la base del",
+                "o": "sentido de la vista"
+            },
+            {
+                "f": "funci\u00f3n del ojo",
+                "r": "consiste en",
+                "o": "transformaci\u00f3n de energ\u00eda lum\u00ednica en se\u00f1ales el\u00e9ctricas"
+            },
+            {
+                "f": "transformaci\u00f3n de energ\u00eda lum\u00ednica en se\u00f1ales el\u00e9ctricas",
+                "r": "transforma",
+                "o": "energ\u00eda lum\u00ednica"
+            },
+            {
+                "f": "se\u00f1ales el\u00e9ctricas",
+                "r": "son enviadas al",
+                "o": "cerebro"
+            },
+            {
+                "f": "se\u00f1ales el\u00e9ctricas",
+                "r": "a trav\u00e9s del",
+                "o": "nervio \u00f3ptico"
+            },
+            {
+                "f": "ojo",
+                "r": "funciona similar al de",
+                "o": "vertebrados"
+            },
+            {
+                "f": "ojo",
+                "r": "funciona similar al de",
+                "o": "moluscos"
+            },
+            {
+                "f": "ojo",
+                "r": "posee una",
+                "o": "lente"
+            },
+            {
+                "f": "lente",
+                "r": "llamada",
+                "o": "cristalino"
+            },
+            {
+                "f": "cristalino",
+                "r": "es ajustable seg\u00fan la",
+                "o": "distancia"
+            },
+            {
+                "f": "ojo",
+                "r": "posee una",
+                "o": "diafragma"
+            },
+            {
+                "f": "diafragma",
+                "r": "se llama",
+                "o": "pupila"
+            },
+            {
+                "f": "pupila",
+                "r": "posee",
+                "o": "di\u00e1metro"
+            },
+            {
+                "f": "iris",
+                "r": "regula",
+                "o": "di\u00e1metro"
+            },
+            {
+                "f": "ojo",
+                "r": "posee una",
+                "o": "tejido sensible a la luz"
+            },
+            {
+                "f": "tejido sensible a la luz",
+                "r": "es la",
+                "o": "retina"
+            },
+            {
+                "f": "luz",
+                "r": "penetra a trav\u00e9s de la",
+                "o": "pupila"
+            },
+            {
+                "f": "luz",
+                "r": "atraviesa el",
+                "o": "cristalino"
+            },
+            {
+                "f": "luz",
+                "r": "se proyecta sobre la",
+                "o": "retina"
+            },
+            {
+                "f": "luz",
+                "r": "se transforma en",
+                "o": "impulsos nerviosos"
+            },
+            {
+                "f": "impulsos nerviosos",
+                "r": "gracias a",
+                "o": "c\u00e9lulas fotorreceptoras"
+            },
+            {
+                "f": "impulsos nerviosos",
+                "r": "se trasladan a trav\u00e9s del",
+                "o": "nervio \u00f3ptico"
+            },
+            {
+                "f": "impulsos nerviosos",
+                "r": "se trasladan al",
+                "o": "cerebro"
+            }
+        ]
+    }
+]

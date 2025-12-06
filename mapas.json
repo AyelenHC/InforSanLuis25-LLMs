@@ -1,0 +1,184 @@
+[
+    {
+        "titulo": "ojo",
+        "pregunta": "\u00bfqu\u00e9 es el ojo, cu\u00e1l es su funci\u00f3n y c\u00f3mo funciona?",
+        "ternas": [
+            {
+                "f": "ojo",
+                "r": "es un",
+                "o": "\u00f3rgano que detecta la luz"
+            },
+            {
+                "f": "ojo",
+                "r": "es la base del",
+                "o": "sentido de la vista"
+            },
+            {
+                "f": "funci\u00f3n del ojo",
+                "r": "consiste b\u00e1sicamente en transformar",
+                "o": "energ\u00eda lum\u00ednica"
+            },
+            {
+                "f": "energ\u00eda lum\u00ednica",
+                "r": "en",
+                "o": "se\u00f1ales el\u00e9ctricas"
+            },
+            {
+                "f": "se\u00f1ales el\u00e9ctricas",
+                "r": "son enviadas al",
+                "o": "cerebro"
+            },
+            {
+                "f": "se\u00f1ales el\u00e9ctricas",
+                "r": "a trav\u00e9s del",
+                "o": "nervio \u00f3ptico"
+            },
+            {
+                "f": "funcionamiento del ojo",
+                "r": "similar al de",
+                "o": "vertebrados"
+            },
+            {
+                "f": "funcionamiento del ojo",
+                "r": "similar al de",
+                "o": "moluscos"
+            },
+            {
+                "f": "ojo",
+                "r": "posee una",
+                "o": "lente"
+            },
+            {
+                "f": "lente",
+                "r": "llamada",
+                "o": "cristalino"
+            },
+            {
+                "f": "cristalino",
+                "r": "es",
+                "o": "lente ajustable seg\u00fan la distancia"
+            },
+            {
+                "f": "ojo",
+                "r": "posee una",
+                "o": "diafragma"
+            },
+            {
+                "f": "diafragma",
+                "r": "se llama",
+                "o": "pupila"
+            },
+            {
+                "f": "di\u00e1metro de la pupila",
+                "r": "est\u00e1 regulado por el",
+                "o": "iris"
+            },
+            {
+                "f": "ojo",
+                "r": "posee una",
+                "o": "tejido sensible a la luz"
+            },
+            {
+                "f": "tejido sensible a la luz",
+                "r": "es la",
+                "o": "retina"
+            },
+            {
+                "f": "luz",
+                "r": "penetra a trav\u00e9s de la",
+                "o": "pupila"
+            },
+            {
+                "f": "luz",
+                "r": "atraviesa el",
+                "o": "cristalino"
+            },
+            {
+                "f": "luz",
+                "r": "se proyecta sobre la",
+                "o": "retina"
+            },
+            {
+                "f": "luz",
+                "r": "se transforma",
+                "o": "impulsos nerviosos"
+            },
+            {
+                "f": "luz",
+                "r": "en",
+                "o": "impulsos nerviosos"
+            },
+            {
+                "f": "impulsos nerviosos",
+                "r": "gracias a unas",
+                "o": "c\u00e9lulas fotorreceptoras"
+            },
+            {
+                "f": "impulsos nerviosos",
+                "r": "se trasladan",
+                "o": "cerebro"
+            },
+            {
+                "f": "impulsos nerviosos",
+                "r": "al",
+                "o": "cerebro"
+            },
+            {
+                "f": "impulsos nerviosos",
+                "r": "a trav\u00e9s del",
+                "o": "nervio \u00f3ptico"
+            }
+        ],
+        "conceptos": [
+            "lista de conceptos:",
+            "ojo",
+            "\u00f3rgano que detecta la luz",
+            "base del sentido de la vista",
+            "sentido de la vista",
+            "funci\u00f3n del ojo",
+            "transformar energ\u00eda lum\u00ednica en se\u00f1ales el\u00e9ctricas",
+            "energ\u00eda lum\u00ednica",
+            "se\u00f1ales el\u00e9ctricas",
+            "cerebro",
+            "nervio \u00f3ptico",
+            "funcionamiento del ojo",
+            "vertebrados",
+            "moluscos",
+            "lente",
+            "cristalino",
+            "lente ajustable seg\u00fan la distancia",
+            "diafragma",
+            "pupila",
+            "di\u00e1metro de la pupila",
+            "iris",
+            "tejido sensible a la luz",
+            "retina",
+            "luz",
+            "c\u00e9lulas fotorreceptoras",
+            "impulsos nerviosos"
+        ],
+        "relaciones": [
+            "relaciones sem\u00e1nticas:",
+            "es un",
+            "es la base del",
+            "consiste b\u00e1sicamente en transformar",
+            "en",
+            "son enviadas al",
+            "a trav\u00e9s del",
+            "similar al de",
+            "posee una",
+            "llamada",
+            "es",
+            "se llama",
+            "est\u00e1 regulado por el",
+            "es la",
+            "penetra a trav\u00e9s de la",
+            "atraviesa el",
+            "se proyecta sobre la",
+            "se transforma",
+            "gracias a unas",
+            "se trasladan",
+            "al"
+        ]
+    }
+]
